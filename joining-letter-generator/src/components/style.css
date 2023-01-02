@@ -1,0 +1,7 @@
+.toggle{position:fixed; top:0; left:0; z-index: 10; background: rgb(175, 22, 196); cursor: pointer; color: white; border:1px solid white; padding: 5px; margin: 20px;}.toggle:hover{background:rgb(244, 165, 255) ;}
+.form{overflow-y: scroll; box-sizing: border-box; max-height: 100%; display: block; left:0px; position: fixed; transition: 1s ease-in-out; background: purple; padding-block: 50px; width: 300px;  top: 0px;}
+.form input{  display: block;  width:90%; box-sizing: border-box; height: 40px; margin-inline: 5%; text-align: center;}
+.form label{color: white; font-weight: 500;margin:5px; margin-left: 5%; display: block;}
+.form button{margin-inline: 5%; width: 90%;cursor: pointer; background: rgb(175, 22, 196); color: white; border: 1px solid white; margin-block:5px;}.form button:hover{background: rgb(244, 165, 255);}
+#letter{width: 594px; margin-inline: auto; line-height: 20px; padding: 100px;}
+span{color: black;}
